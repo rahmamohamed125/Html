@@ -1,0 +1,122 @@
+h1 {
+    color: #333333;
+    text-align: center;
+    font-size: 50px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #666666; /* Darker border color */
+}
+
+h2 {
+    color: #444444;
+    font-size: 30px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
+
+h3 {
+    color: #555555;
+    font-size: 25px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
+
+p {
+    color: #333333;
+    font-size: 20px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+details {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
+
+summary {
+    color: #333333;
+    font-size: 20px;
+}
+
+form {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
+
+video {
+    border-radius: 20px;
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
+
+input {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="submit"],
+input[type="button"],
+input[type="reset"],
+input[type="file"],
+input[type="radio"] {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
+
+textarea,
+select {
+    color: #333333;
+    font-size: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #666666; /* Darker border color */
+    border-style: solid;
+}
